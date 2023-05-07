@@ -29,3 +29,6 @@ A imagem deverá ser criada e executada em um servidor na nuvem utilizando um Gi
 
  
 Bons estudos 😉
+
+
+(PS. Aguardando novo teclado chegar)
